@@ -92,6 +92,7 @@ input[type="reset"]{
     align-items: center;
     width: 100%;
     border-radius: 50%;
+    border-color: #fd7e14;
 
 }
 
@@ -99,5 +100,6 @@ input[type="reset"]{
     max-width: 315px;
     height: auto;
     border-radius: 50%;
+    border-color: #fd7e14;
 }
 

@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa26587-70c7-4f63-94bd-e1c098f92382" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/emobilisWebProjects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Photo1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/myimage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/photo2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/photo3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/photo5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/team.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +69,8 @@
       <workItem from="1729579403671" duration="926000" />
       <workItem from="1729580343689" duration="4078000" />
       <workItem from="1729590214523" duration="4856000" />
+      <workItem from="1729596335489" duration="585000" />
+      <workItem from="1729605495628" duration="354000" />
     </task>
     <servers />
   </component>
